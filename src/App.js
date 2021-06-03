@@ -1,8 +1,9 @@
+import MapComponent from "./MapContainer";
 
 function App() {
   return (
     <div className="App">
-      <span>HI</span>
+       <MapComponent />
     </div>
   );
 }
